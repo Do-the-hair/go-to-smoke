@@ -1,0 +1,7 @@
+awvs
+goby
+xray
+webscan
+
+sqlmap
+

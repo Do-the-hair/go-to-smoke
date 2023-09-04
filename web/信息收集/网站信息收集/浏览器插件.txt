@@ -1,0 +1,4 @@
+findsomething	查看js内url，调用目录等
+zoomeye
+shodan
+Wappalyzer	查看网站中间件信息 开发语言信息等
